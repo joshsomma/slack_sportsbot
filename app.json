@@ -1,7 +1,7 @@
 {
   "name": "Webhook for Squiz Slack SportsBot",
   "description": "Webhook for Squiz Slack SportsBot",
-  "repository": "",
+  "repository": "https://github.com/joshsomma/slack_sportsbot",
   "logo": "",
   "keywords": ["Squiz", "Slack", "SportsBot"]
 }
